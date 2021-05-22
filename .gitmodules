@@ -1,0 +1,6 @@
+[submodule "coral"]
+	path = coral
+	url = git@github.com:noonebtw/coral-screenshot.git
+[submodule "coral-editor"]
+	path = coral-editor
+	url = git@github.com:noonebtw/coral-editor.git
